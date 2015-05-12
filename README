@@ -1,0 +1,7 @@
+This package provides a shell for building OMPL from source in a catkin environment.  You (yes, you) must do two things before this will work:
+
+1) Download the source of OMPL.  Whatever version you want.
+2) Copy the source into this directory.  You don't need everything.
+At a minimum, copy these directories from the OMPL source into this folder:
+   - CMakeModules
+   - src
